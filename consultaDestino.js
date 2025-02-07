@@ -1,5 +1,5 @@
 import 'dotenv/config'
-import { fazerPergunta } from "./pergunta.js";
+import { fazerPergunta } from "./fazerPergunta.js";
 import { inicializaModelo } from './inicializaModelo.js';
 
 const model = await inicializaModelo("gemini-1.5-flash")
