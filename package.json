@@ -1,5 +1,5 @@
 {
-  "name": "gemini-text-1",
+  "name": "gemini-node-integration",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
